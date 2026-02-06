@@ -1,0 +1,160 @@
+Initializing Blockchain with Genesis Block...
+Genesis block created with hash: edd63248849c9bbe183581c9a0de2a8a9b3261a6cbe6fcbf02a79e4e16c165eb
+
+Launching 5 miners (threads)...
+Current Height: 1
+Miner 4 added a block.
+Current Height: 2
+Miner 1 added a block.
+Current Height: 3
+Miner 4 added a block.
+Current Height: 4
+Miner 2 added a block.
+Current Height: 5
+Miner 3 added a block.
+Current Height: 6
+Miner 5 added a block.
+Current Height: 7
+Miner 2 added a block.
+Current Height: 8
+Miner 5 added a block.
+Current Height: 9
+Miner 2 added a block.
+Current Height: 10
+Miner 1 added a block.
+Current Height: 11
+Miner 3 added a block.
+Current Height: 12
+Miner 4 added a block.
+Current Height: 13
+Miner 4 added a block.
+Current Height: 14
+Miner 2 added a block.
+Current Height: 15
+Miner 5 added a block.
+Current Height: 16
+Miner 1 added a block.
+Current Height: 17
+Miner 3 added a block.
+Current Height: 18
+Miner 4 added a block.
+Current Height: 19
+Miner 5 added a block.
+Current Height: 20
+Miner 2 added a block.
+Current Height: 21
+Miner 1 added a block.
+Current Height: 22
+Miner 5 added a block.
+Current Height: 23
+Miner 3 added a block.
+Current Height: 24
+Miner 5 added a block.
+Current Height: 25
+Miner 4 added a block.
+Current Height: 26
+Miner 3 added a block.
+Current Height: 27
+Miner 3 added a block.
+Current Height: 28
+Miner 2 added a block.
+Current Height: 29
+Miner 1 added a block.
+Current Height: 30
+Miner 4 added a block.
+Current Height: 31
+Miner 5 added a block.
+Current Height: 32
+Miner 2 added a block.
+Current Height: 33
+Miner 3 added a block.
+Current Height: 34
+Miner 1 added a block.
+Current Height: 35
+Miner 2 added a block.
+Current Height: 36
+Miner 4 added a block.
+Current Height: 37
+Miner 1 added a block.
+Current Height: 38
+Miner 5 added a block.
+Current Height: 39
+Miner 3 added a block.
+Current Height: 40
+Miner 4 added a block.
+Current Height: 41
+Miner 2 added a block.
+Current Height: 42
+Miner 1 added a block.
+Current Height: 43
+Miner 3 added a block.
+Current Height: 44
+Miner 4 added a block.
+Current Height: 45
+Miner 5 added a block.
+Current Height: 46
+Miner 1 added a block.
+Current Height: 47
+Miner 2 added a block.
+Current Height: 48
+Miner 3 added a block.
+Current Height: 49
+Miner 5 added a block.
+Current Height: 50
+Miner 1 added a block.
+
+All miners have finished.
+
+Blockchain from Genesis to Tip:
+Block Hash: edd63248849c9bbe183581c9a0de2a8a9b3261a6cbe6fcbf02a79e4e16c165eb
+Block Hash: 9cbf8cbaab9532debd57773bf2878ba90d77dabbf7f669c211a448b90aca3cae
+Block Hash: fd601db735b6a8138c762dec00f53d89d345d4e66740062b3e70a2ff6806598c
+Block Hash: 5d7d34d9caf51de44a146dd6786e8cbb00dee6b738c93b9ac71a238520af8c28
+Block Hash: 5dd5469a005be195e057cd6b73138a6f6421f216c5734ef86df7dd2893ea01f9
+Block Hash: aec0af7a76de58ef73cdca55b430e44457fc2ff1b98f6946e59dbbb86bf15889
+Block Hash: 18c4775bf320abfe48a639d26b8335367d00ea4db63b20b7466fbaf3aee58575
+Block Hash: 7b81b46837bd0af2cda7fcef1e453a422f37ce0cb4fc8eff2f6172b1a85ce920
+Block Hash: 609b962bdeee9c9ba033f29af666e647221dd8e1f4c396a1cc1e62872a26dd5c
+Block Hash: cefc1fbd3ee9996b45b4b203a88f8f23d2540f966453e72ce1e627c8a6e91695
+Block Hash: bd455be9d25f7e3a404aadf956008058b4348932890b63c0e3233e3047d61a1b
+Block Hash: fc2b836a87e6b761dfde3a47875acf50a3c23d60c8c5c2475ff76e8a6560b404
+Block Hash: e269c8061f985c0d19c4efca56adeb26a99421bd920f4166a933ab1f70720a75
+Block Hash: 707c0ca110747b2a8c3ea3f05c314c6b15a8c71897454c10bec46718fbafca2f
+Block Hash: 2024a9a16854efc5231bedb712cbac236e5facac402890b22441225914647e25
+Block Hash: 6960926caf0c14697069354423c3197ebd3edf5992e8a4218841c820a4767b22
+Block Hash: 6820e7a1fc63203a2b3069e5fd526b67e38e4b135646f6e19d45e358dac6871c
+Block Hash: 3e9f66ac306c2f50e76966b1990443c3af428773033315ab6332d8a07c706a0d
+Block Hash: 0825f9671fa49a0af09c0e0d4419081b0278375cb49110380c0a67d17cbb5f05
+Block Hash: 8d8fc0b9d0d79244d42529d58b2ac0d44a1003a5fb93340132465f0ccbcf16d4
+Block Hash: 7f96935df9776d5e46e8b4613d71d90aec155e16b55b14ed0706810f96336c45
+Block Hash: 0bfe904c96ed628328bff4c3e14ba19bb52409b436a8a3a616a794fadf76fa0f
+Block Hash: 7b7c2edd9b548cd58879626eb808e7f846b360e0f64cb6ec3d2f985a0949acd6
+Block Hash: 6312f2d4c7d1de23b862a5bfd0cb53579aee4a7ac056eb1ca97fe7f191bfa5e2
+Block Hash: 2a475e7bd0da15ede003d148beecaef9ea177cb5608a692983b227a55e62a284
+Block Hash: 9a779de09b2f0280c2dab3bf000ed35acbfb86a04f6d4229f26948393db35309
+Block Hash: 97349260ed6834d58f0299b14bfe3df35f7c9285e447f8078cd2f99edbf5847f
+Block Hash: 4e4d043622fe3ae5c3effa53e9a8ee00dfba216fe1b85c99187f692ae711f818
+Block Hash: 05f75cfd8308b995537a7ea7011594a114190602e38b883c888793e94251095f
+Block Hash: 8de731c83291d2d22a3567859e02d2d1f46a5aee74c0b44e4872855a87a6b05c
+Block Hash: d373dc5a84f5160c1f4e22d7518e610445b32336f74efe25d11e18726bd2117d
+Block Hash: ab3c220d5af6eb45a5cc0229ff08ca37d4e599080724dbf19e08afa9f888c0e6
+Block Hash: 11e37c1cb6efaf6c2557f1e38ad4ccba32966cb34063cc7122872e2555b31ee5
+Block Hash: 66a74148d424a431493c5743062d78b4f22d293f20660452f0d3ee63ab330b85
+Block Hash: 957d5153b06760438f63db427e4d39daad2399ef67717d9f6089c53df4a8d4a3
+Block Hash: 7ea5452b5fdf0cfd1c2f750fdfc70f34681defb1b6112fb9f187c124ac71a536
+Block Hash: 6b7e4eb8be3b0a317c64c601768501d8db71ae1c4f953333f77dd8b2d8a7068d
+Block Hash: ea966de04659ce7c68d092c30e2c406b3bf0f8135a559ac4c71ddf2b0ac4ecb6
+Block Hash: 7f672a98ec930ee90c046d4a66d1e3ed2a393437261c7702d5a4fbe9ba16d5ef
+Block Hash: 76d4c93ad608d8167ffea3932fa4c31c6fe319cf657b9a4374fb7a3ef83c22ee
+Block Hash: d1c04b7336198377f37226363de188f327ea31365924fc5ae1f867d5c953f493
+Block Hash: 769a27111a97a88a1578086dcc990b68ff68463e59a71c6bacdb68603793af74
+Block Hash: b62bb4dc9e8c91387bf086cfc1c87036d91f3e94203e4c162139b64aaa381a37
+Block Hash: 56cd2a3f3b4cfb6e0631706ed536f0ee57d99064811ca4ae64473f555877328a
+Block Hash: 2a7499eda84e2ad130730f852b0c75f5fb7f6b802af6c4401e2db35530b2345b
+Block Hash: 4ea63c3a47353de968aedc42eebb073199628f3cae2322fe1a2c0ea869d37f90
+Block Hash: 93f02c94feffb8df6bcf7fb37a6ce67ec036cbdbef7dbd73e27bec758732b410
+Block Hash: ad38af526ef81c36f94f3bd7e465a0de278a66891976dd5afcbdcb7ba3f8cb4c
+Block Hash: 64af89e4d4a056a433090330886b01bb933256cdcea6a95c6efa88447585df6c
+Block Hash: 21292cc23f5edc2e28ddc8fc414484508c0997a20ab1b95a10bf9b4b283818c4
+Block Hash: bf90b60efcd63f43ad41431fd7df5de7bccb16051969af6e361f67ef8f046fcb
+Current Tip: bf90b60efcd63f43ad41431fd7df5de7bccb16051969af6e361f67ef8f046fcb

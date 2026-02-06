@@ -1,0 +1,566 @@
+Initializing Blockchain...
+Genesis block created with hash: edd63248849c9bbe183581c9a0de2a8a9b3261a6cbe6fcbf02a79e4e16c165eb
+------ New Block ------
+Parent Hash: 0000000000000000000000000000000000000000000000000000000000000000
+Nonce: 0
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 0
+Merkle Root: 78242c0d0e007f3f2ec67699880fb78d12cbbec434bd839d5b5a1f93aa1abb42
+Hash: edd63248849c9bbe183581c9a0de2a8a9b3261a6cbe6fcbf02a79e4e16c165eb
+-----------------------
+
+Mining 50 blocks...
+------ New Block ------
+Parent Hash: edd63248849c9bbe183581c9a0de2a8a9b3261a6cbe6fcbf02a79e4e16c165eb
+Nonce: 9383
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 9b0d576941cbc9204799f6e025698d0a5ce43434ee51256699c1abad5feb0f2f
+Hash: 3fb5d0c0ecf43d26ee59713d10995035d6b430d4943e8b05fbb3b2c7f31bc913
+-----------------------
+Current Height: 1
+-----------------------
+------ New Block ------
+Parent Hash: 3fb5d0c0ecf43d26ee59713d10995035d6b430d4943e8b05fbb3b2c7f31bc913
+Nonce: 886
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: d7bd944e68c625856d96159d5813ce0d72d3e1f8b2e46b92b25afaabcdc9c29a
+Hash: 2e5cea2a798dc5f312635ccb993197cef383d7ff11834b1ee8a64012528321e5
+-----------------------
+Current Height: 2
+-----------------------
+------ New Block ------
+Parent Hash: 2e5cea2a798dc5f312635ccb993197cef383d7ff11834b1ee8a64012528321e5
+Nonce: 2777
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 0e946d871baf5a59dacdf1bfda821a5fe805809a8d4078fa773a8a8fe900f658
+Hash: df43eb9d1d6f6d53853937d589ecbb54a89e519340173e1e119da6c559917474
+-----------------------
+Current Height: 3
+-----------------------
+------ New Block ------
+Parent Hash: df43eb9d1d6f6d53853937d589ecbb54a89e519340173e1e119da6c559917474
+Nonce: 6915
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: d529c3f9aaa265b840170cb9c249f7df3043cf027e1cf900ad0d38c9187795ae
+Hash: 10d4e8b76c9397e0b51beb684dd6ae2fd43247d2cba298b41683fdcfe8d4a844
+-----------------------
+Current Height: 4
+-----------------------
+------ New Block ------
+Parent Hash: 10d4e8b76c9397e0b51beb684dd6ae2fd43247d2cba298b41683fdcfe8d4a844
+Nonce: 7793
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: f1a17637e52f9bd553600ed5e2fca39ac9e05cd63697b92847d8b57ea9558f5c
+Hash: b064cf9db0541e32a39c970d3d6fbcb83f7a663974347f97e82081339a7d170f
+-----------------------
+Current Height: 5
+-----------------------
+------ New Block ------
+Parent Hash: b064cf9db0541e32a39c970d3d6fbcb83f7a663974347f97e82081339a7d170f
+Nonce: 8335
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 1880b7ac52dd24aa4463751334d8506dd99f8d31f917b37ba254ce38c2d2bf97
+Hash: c0444d1e673025049df3d372a525ca256468c74a726143f2621577c8eebd26e0
+-----------------------
+Current Height: 6
+-----------------------
+------ New Block ------
+Parent Hash: c0444d1e673025049df3d372a525ca256468c74a726143f2621577c8eebd26e0
+Nonce: 5386
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 878b7842a6c5b080c25eb6907a9a9acf526c289044e43b1c067f6352f745d242
+Hash: 1c1285d618c8f3f1ca93e927a7053775a69169f88966fe0c54f389353d834dc6
+-----------------------
+Current Height: 7
+-----------------------
+------ New Block ------
+Parent Hash: 1c1285d618c8f3f1ca93e927a7053775a69169f88966fe0c54f389353d834dc6
+Nonce: 492
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 64a2fe3561a1e2332d7d380b52d54dfede402548b284569cba94dee04cabbbdd
+Hash: 0c18c9b7fe600d8d4da16310a8ff69e685d4e45e95e3eec8419568881d92453c
+-----------------------
+Current Height: 8
+-----------------------
+------ New Block ------
+Parent Hash: 0c18c9b7fe600d8d4da16310a8ff69e685d4e45e95e3eec8419568881d92453c
+Nonce: 6649
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 4c3e371a29fea625ee359e72d8dbdf4a514ca65153ca1bad738d943a9417bdce
+Hash: 2c9fe2b7d1bec3eab2d606956be738174171132d8216bff7f67284b289c1b741
+-----------------------
+Current Height: 9
+-----------------------
+------ New Block ------
+Parent Hash: 2c9fe2b7d1bec3eab2d606956be738174171132d8216bff7f67284b289c1b741
+Nonce: 1421
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 4120f505ab58cce9f9318ba8bff0969fdb3b9f47b73251f13d48faaa1130dc08
+Hash: f0c4b256b61a1a5a9774bbb70db0deb57cff095f5b805ec9410acbc9c7c19242
+-----------------------
+Current Height: 10
+-----------------------
+------ New Block ------
+Parent Hash: f0c4b256b61a1a5a9774bbb70db0deb57cff095f5b805ec9410acbc9c7c19242
+Nonce: 2362
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 5533dc1a4c47acdceb3fc02305ddc715e3cd18b994dbe3da8a8b55dce59439c5
+Hash: 36a488966277e7d203167023a582d8d9edc8ce637117d6d62ffd760423b45a1a
+-----------------------
+Current Height: 11
+-----------------------
+------ New Block ------
+Parent Hash: 36a488966277e7d203167023a582d8d9edc8ce637117d6d62ffd760423b45a1a
+Nonce: 27
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 7cd53e71d5776f17b53e06cf7359f14c44f40c165b6a8e95332878f340071cbb
+Hash: 840905a1dded2b682483363377b0878c96d1edefbd23d5eea12567b9ae3594ad
+-----------------------
+Current Height: 12
+-----------------------
+------ New Block ------
+Parent Hash: 840905a1dded2b682483363377b0878c96d1edefbd23d5eea12567b9ae3594ad
+Nonce: 8690
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: fec5ce011019b95456bebcc9a578a7f2fdc71c5dd819ca198cb7978a64623e89
+Hash: 4386265d0a6309f3617d013f3b3db01295eaf704cee0f1a3f826132637cbba39
+-----------------------
+Current Height: 13
+-----------------------
+------ New Block ------
+Parent Hash: 4386265d0a6309f3617d013f3b3db01295eaf704cee0f1a3f826132637cbba39
+Nonce: 59
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 0bd7c07b605d96352ef0671678f4829bc0ae8ac36eb684301bf76496acafb63c
+Hash: 3f9c49b9ba6a4d2b4b06f41c70101207dd0b43169bcc40bfc5f9f92689e7701e
+-----------------------
+Current Height: 14
+-----------------------
+------ New Block ------
+Parent Hash: 3f9c49b9ba6a4d2b4b06f41c70101207dd0b43169bcc40bfc5f9f92689e7701e
+Nonce: 7763
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 29de7ee10360d0a7259e702f5de08487741a055ed7d4db6db40541d57417beb1
+Hash: 3f8c4f5b23c592143343b1f01a2fab3f0b842e87cdcb2386228268ec262010a0
+-----------------------
+Current Height: 15
+-----------------------
+------ New Block ------
+Parent Hash: 3f8c4f5b23c592143343b1f01a2fab3f0b842e87cdcb2386228268ec262010a0
+Nonce: 3926
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: e27927ded2be748640783ab5252fa48d7ab384f1e100f78ea4563b6611de361c
+Hash: 7e0c70e3a0aeeb653dd3804df3e853c3c4f32e64cca19946bf16c97cbd8cd6a0
+-----------------------
+Current Height: 16
+-----------------------
+------ New Block ------
+Parent Hash: 7e0c70e3a0aeeb653dd3804df3e853c3c4f32e64cca19946bf16c97cbd8cd6a0
+Nonce: 540
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: b026b3f46fdccab7ae24cba6fb92567d8856a1d3de3518d655f60182153b499d
+Hash: d72b361570944ed16d62efe6fa18c57c47d6a9068e848bb56cc6d94528a60fb4
+-----------------------
+Current Height: 17
+-----------------------
+------ New Block ------
+Parent Hash: d72b361570944ed16d62efe6fa18c57c47d6a9068e848bb56cc6d94528a60fb4
+Nonce: 3426
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 69e9881542d8903617cb295d59327eef8f448411e8abe922a3ce02bffad62acc
+Hash: 74de5d22b1b994ebb9f2b6a3802a2f8738d413adf19df54d37612b4515dc0256
+-----------------------
+Current Height: 18
+-----------------------
+------ New Block ------
+Parent Hash: 74de5d22b1b994ebb9f2b6a3802a2f8738d413adf19df54d37612b4515dc0256
+Nonce: 9172
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: d8f35cd1d2620f2fe616e3196cc4dbddb1f8fefc64d56f1b0dca043d048ce07a
+Hash: 2314fd38965f54e3117f9d64de90c9ceecc379114ca99955d920283dab3de2c2
+-----------------------
+Current Height: 19
+-----------------------
+------ New Block ------
+Parent Hash: 2314fd38965f54e3117f9d64de90c9ceecc379114ca99955d920283dab3de2c2
+Nonce: 5736
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 2fb2f136223fe3afda73c06bcb91336cb6b5bad8d06530ee0166c61c4298c326
+Hash: c9539f0c04b2b1c3cb58bad58efea1772c08db8ae1e15e9226a9dc8bcf9436d9
+-----------------------
+Current Height: 20
+-----------------------
+------ New Block ------
+Parent Hash: c9539f0c04b2b1c3cb58bad58efea1772c08db8ae1e15e9226a9dc8bcf9436d9
+Nonce: 5211
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: a5818e3d864d60b235704558104dacf28f550a0eb1d37ac1658da6292cf39701
+Hash: 0ca774e441d5913647102e9a90e7f1889216eedf05f7c1a78e1daa7e376a649a
+-----------------------
+Current Height: 21
+-----------------------
+------ New Block ------
+Parent Hash: 0ca774e441d5913647102e9a90e7f1889216eedf05f7c1a78e1daa7e376a649a
+Nonce: 5368
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 714dc775d7787010b57315b2ed06271ddebac452068ea4884e8f5c5e4ddc033a
+Hash: 72af5ab22e103b7b68c77ea89b4b188d0a9cde4ba01443438299b4ab94052e0f
+-----------------------
+Current Height: 22
+-----------------------
+------ New Block ------
+Parent Hash: 72af5ab22e103b7b68c77ea89b4b188d0a9cde4ba01443438299b4ab94052e0f
+Nonce: 2567
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: badffba7425c9a52403c059e41d65724aa1da9aeb8a3b07378e77befcf009cd3
+Hash: c33eb3d2fb6ab7b4e30441c62f18f96ade2143d51b5dd7fd8728d8392f4dd870
+-----------------------
+Current Height: 23
+-----------------------
+------ New Block ------
+Parent Hash: c33eb3d2fb6ab7b4e30441c62f18f96ade2143d51b5dd7fd8728d8392f4dd870
+Nonce: 6429
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 2fe5355f6c7d5c6045efc16add77829b222c9e9419f40346e40076d35e0aa12e
+Hash: ce0a927d9d3e759da5e2f0d87289df72e750d96a38e03be1e55399113ebb0b1e
+-----------------------
+Current Height: 24
+-----------------------
+------ New Block ------
+Parent Hash: ce0a927d9d3e759da5e2f0d87289df72e750d96a38e03be1e55399113ebb0b1e
+Nonce: 5782
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 48604495136403c2528e29995150f8d9b4ef91bc9b8a1005f5d2fb7314ff084a
+Hash: 604293c8a360702d75b13403058062264301f1774926f93d8dfe8fac96eb3cec
+-----------------------
+Current Height: 25
+-----------------------
+------ New Block ------
+Parent Hash: 604293c8a360702d75b13403058062264301f1774926f93d8dfe8fac96eb3cec
+Nonce: 1530
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: d0b1749c0321c68cbe5f0f7e9852adad45332ced52da0fe4767f882990ba90d6
+Hash: ebb459c8b3d41858cb7ede638a085661bc0e23af64652ea4f02cd605b5d11896
+-----------------------
+Current Height: 26
+-----------------------
+------ New Block ------
+Parent Hash: ebb459c8b3d41858cb7ede638a085661bc0e23af64652ea4f02cd605b5d11896
+Nonce: 2862
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: cb8eba9263aa7d7c4f5c302185d178d631bddb955a5f8ca4d39033f518cc6302
+Hash: efcd4c82b10a6e46bb3fdadd9bcab14c27fc6bfae1045620a990aa82ea620b57
+-----------------------
+Current Height: 27
+-----------------------
+------ New Block ------
+Parent Hash: efcd4c82b10a6e46bb3fdadd9bcab14c27fc6bfae1045620a990aa82ea620b57
+Nonce: 5123
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 748459118fddc49c2cefb8a34566f675cce40c47c94ba7616a63f9c298e71e74
+Hash: 041a01081f4437a2f6473febb107ac8d5eac24318b860fa2f8b3be46bfeb6650
+-----------------------
+Current Height: 28
+-----------------------
+------ New Block ------
+Parent Hash: 041a01081f4437a2f6473febb107ac8d5eac24318b860fa2f8b3be46bfeb6650
+Nonce: 4067
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 1ffec0b4ecf8def5c7b5fcddaf00332a8dc2f1f4ee5f73a137e9c3c4656e32c7
+Hash: 33abae48e57c79411fa46a9320d58734d8947c851d65ee45828ad2486123bb42
+-----------------------
+Current Height: 29
+-----------------------
+------ New Block ------
+Parent Hash: 33abae48e57c79411fa46a9320d58734d8947c851d65ee45828ad2486123bb42
+Nonce: 3135
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: f53b039ba57c7043662f3c8ab08030a78239ed93d97b1bf961f27c4f21401cf5
+Hash: 5b1ec5667f87c7076d3778eb14863eb72ff0d867ed284e6d1352e15e6cf4551d
+-----------------------
+Current Height: 30
+-----------------------
+------ New Block ------
+Parent Hash: 5b1ec5667f87c7076d3778eb14863eb72ff0d867ed284e6d1352e15e6cf4551d
+Nonce: 3929
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 40b9e12360ad434a74a212ed073ecc8c9854df7cb295afc0c7f604152fecfd6e
+Hash: aebc75743f46454996e30bf15eca5d9b7fcb014d85823bd897d0d2a4559b41c7
+-----------------------
+Current Height: 31
+-----------------------
+------ New Block ------
+Parent Hash: aebc75743f46454996e30bf15eca5d9b7fcb014d85823bd897d0d2a4559b41c7
+Nonce: 9802
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 0d997ef89be74cac0fe511a0a593ee39b23618bb582b811726088151cf6151a5
+Hash: 28e758d5791eaf1e71d959b9859dcbcb8f4010f3b669bf811fc84db43c61d45a
+-----------------------
+Current Height: 32
+-----------------------
+------ New Block ------
+Parent Hash: 28e758d5791eaf1e71d959b9859dcbcb8f4010f3b669bf811fc84db43c61d45a
+Nonce: 4022
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 674c240b702d577adfdea14b2f8d2c14b0a59ff15d3d084035d500bc3af6f557
+Hash: 911750371cb0dbc6d1f00b769736a1098427a70b4f8d33464eed67864393585c
+-----------------------
+Current Height: 33
+-----------------------
+------ New Block ------
+Parent Hash: 911750371cb0dbc6d1f00b769736a1098427a70b4f8d33464eed67864393585c
+Nonce: 3058
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 8c21328ba818bd09d25f87b6a41fcb1de4a47690c3f252639a7d3b829d1aa3bd
+Hash: 52b8486fc7523f35faa32b3351c6c357d3bdaad6749292e52d1703ec4bf28305
+-----------------------
+Current Height: 34
+-----------------------
+------ New Block ------
+Parent Hash: 52b8486fc7523f35faa32b3351c6c357d3bdaad6749292e52d1703ec4bf28305
+Nonce: 3069
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: e86d619050aea69a8d1195634de1d47338375d9c77d32074c6cc2cc7e53cef20
+Hash: d248f2e61914f301e0a639acc6510850ea540e8ef2c5d5c55a725259b3b08ddf
+-----------------------
+Current Height: 35
+-----------------------
+------ New Block ------
+Parent Hash: d248f2e61914f301e0a639acc6510850ea540e8ef2c5d5c55a725259b3b08ddf
+Nonce: 8167
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: ce3829bb430ad1fea9490089e755bf092ea30f4b80a7d117cd162c18dd8a8619
+Hash: d136015b187f526f2ec69986542897721766823ecb675254af72fe8e407e03fc
+-----------------------
+Current Height: 36
+-----------------------
+------ New Block ------
+Parent Hash: d136015b187f526f2ec69986542897721766823ecb675254af72fe8e407e03fc
+Nonce: 1393
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 5a50921fb6172450ef7dba94046eb02f63a81a6d9c81d0c41f66fa4ed9640638
+Hash: 8d97e00ccf6c760d1c20b26155fc4a49ba063541577c18678e5c5d38ddd70b55
+-----------------------
+Current Height: 37
+-----------------------
+------ New Block ------
+Parent Hash: 8d97e00ccf6c760d1c20b26155fc4a49ba063541577c18678e5c5d38ddd70b55
+Nonce: 8456
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: cf651557a3ee280ffe3ea4683e4c91aedc9b3804fd79b572c0376b72c9fe2a95
+Hash: c10644eb5503228cddda13d43fda7fcf3b9ff67bfb79f9fda74d8231d1b7badb
+-----------------------
+Current Height: 38
+-----------------------
+------ New Block ------
+Parent Hash: c10644eb5503228cddda13d43fda7fcf3b9ff67bfb79f9fda74d8231d1b7badb
+Nonce: 5011
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: db60d3329bdcce8bf94e7b9f79c02a88aad05dcf5985424d86a182bebc87d398
+Hash: 6f90eb8bd544944761cb715694e27f438951d6620267a73f700f1d78eedeb943
+-----------------------
+Current Height: 39
+-----------------------
+------ New Block ------
+Parent Hash: 6f90eb8bd544944761cb715694e27f438951d6620267a73f700f1d78eedeb943
+Nonce: 8042
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 65cc673a3195cc3651c37ef4506fab92c66df7cf280e713a2537b3bdf6437d01
+Hash: 7228c1c960f7bc2c745b5f621ca7dd3844da7df06e05037b80c826885aa2e22c
+-----------------------
+Current Height: 40
+-----------------------
+------ New Block ------
+Parent Hash: 7228c1c960f7bc2c745b5f621ca7dd3844da7df06e05037b80c826885aa2e22c
+Nonce: 6229
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 2f5d34b23194ed6ca8cf502dbdd12a502565b4b3900901a23d7e6e012a731f67
+Hash: 1d779dca3d2ea89c4710d6dc9b33cdccaf5832993f4c4a2eff55c92a5cfa51f9
+-----------------------
+Current Height: 41
+-----------------------
+------ New Block ------
+Parent Hash: 1d779dca3d2ea89c4710d6dc9b33cdccaf5832993f4c4a2eff55c92a5cfa51f9
+Nonce: 7373
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 93873a0edb93c3a20fb3abfcc3a733921d75dca5e696f89aff4489285b9b3a4f
+Hash: 789434f176e0740658bc636f2b597ac181a6dbf7e720848e635c2ae9e5b78c74
+-----------------------
+Current Height: 42
+-----------------------
+------ New Block ------
+Parent Hash: 789434f176e0740658bc636f2b597ac181a6dbf7e720848e635c2ae9e5b78c74
+Nonce: 4421
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 32db45cd914c41989c6a3f13242c95801b17b47a18f7e9124fcb479992910584
+Hash: 24be990988f1a68321ea4944553c9761da493dea608bcec32b021a5bf48b4283
+-----------------------
+Current Height: 43
+-----------------------
+------ New Block ------
+Parent Hash: 24be990988f1a68321ea4944553c9761da493dea608bcec32b021a5bf48b4283
+Nonce: 4919
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 32cf60df502138fbb74cacd34c4ba454fa98a8cb8a74a6a494f0470c75ec1d04
+Hash: 0f093d60f4595fcd01c2b9a28eec37644ac13f2fae4c3237f9380841a8aec014
+-----------------------
+Current Height: 44
+-----------------------
+------ New Block ------
+Parent Hash: 0f093d60f4595fcd01c2b9a28eec37644ac13f2fae4c3237f9380841a8aec014
+Nonce: 3784
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: b7bfddcf2b07fed411115da6f5969ac5eeeeb9437657e3f598ff0e6c28cb1103
+Hash: f3b5622bc89bba01244b6b5c4b2d15566e9cc35d1a8c0772a81a39692cce48a8
+-----------------------
+Current Height: 45
+-----------------------
+------ New Block ------
+Parent Hash: f3b5622bc89bba01244b6b5c4b2d15566e9cc35d1a8c0772a81a39692cce48a8
+Nonce: 8537
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 0d66cfcd0f45b69ac0ca4d106d38ec52f5300de1bf11a53a985dd50ef3b85865
+Hash: 077fef85729559c75314d30b842ebf1516a18ce043be81f7ffef084042941adb
+-----------------------
+Current Height: 46
+-----------------------
+------ New Block ------
+Parent Hash: 077fef85729559c75314d30b842ebf1516a18ce043be81f7ffef084042941adb
+Nonce: 5198
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: f640783cd653e2a8af21ee4de00e4b1fcaa515a1dfc0493882e3e7c9539d7336
+Hash: fccb431074297b8f46003842fd12ffe8977676dc408537187a6c224d357a0221
+-----------------------
+Current Height: 47
+-----------------------
+------ New Block ------
+Parent Hash: fccb431074297b8f46003842fd12ffe8977676dc408537187a6c224d357a0221
+Nonce: 4324
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 8d9b4156ab204413b06d501292d18bb33ae509621851a7c29ed5c283378fab9d
+Hash: d07eeb3546452eeeccc790900822f018d65f9f23dad458a424bd9941598cd8b4
+-----------------------
+Current Height: 48
+-----------------------
+------ New Block ------
+Parent Hash: d07eeb3546452eeeccc790900822f018d65f9f23dad458a424bd9941598cd8b4
+Nonce: 8315
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 0da41ed8de79b8f5c407d65443fe8d548f398c7b713d90a3569bdd9d20d9df74
+Hash: 5e33cbf3901603d3096ba70fd0f3be8bc8b2297ddd9eeba894c32020b2ed6eff
+-----------------------
+Current Height: 49
+-----------------------
+------ New Block ------
+Parent Hash: 5e33cbf3901603d3096ba70fd0f3be8bc8b2297ddd9eeba894c32020b2ed6eff
+Nonce: 4370
+Difficulty: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+Timestamp: 1770410172
+Merkle Root: 3b4fa3e175412cc75a5bc77f8bafe5fdaa64e4b76e322de798e53a36d68bc76d
+Hash: d4be31d3ef612aa53d16d5d4166dafd6b0bb40d1d8428eb74e3132b3c6adeec0
+-----------------------
+Current Height: 50
+-----------------------
+
+Blockchain from Genesis to Tip:
+Block Hash: edd63248849c9bbe183581c9a0de2a8a9b3261a6cbe6fcbf02a79e4e16c165eb
+Block Hash: 3fb5d0c0ecf43d26ee59713d10995035d6b430d4943e8b05fbb3b2c7f31bc913
+Block Hash: 2e5cea2a798dc5f312635ccb993197cef383d7ff11834b1ee8a64012528321e5
+Block Hash: df43eb9d1d6f6d53853937d589ecbb54a89e519340173e1e119da6c559917474
+Block Hash: 10d4e8b76c9397e0b51beb684dd6ae2fd43247d2cba298b41683fdcfe8d4a844
+Block Hash: b064cf9db0541e32a39c970d3d6fbcb83f7a663974347f97e82081339a7d170f
+Block Hash: c0444d1e673025049df3d372a525ca256468c74a726143f2621577c8eebd26e0
+Block Hash: 1c1285d618c8f3f1ca93e927a7053775a69169f88966fe0c54f389353d834dc6
+Block Hash: 0c18c9b7fe600d8d4da16310a8ff69e685d4e45e95e3eec8419568881d92453c
+Block Hash: 2c9fe2b7d1bec3eab2d606956be738174171132d8216bff7f67284b289c1b741
+Block Hash: f0c4b256b61a1a5a9774bbb70db0deb57cff095f5b805ec9410acbc9c7c19242
+Block Hash: 36a488966277e7d203167023a582d8d9edc8ce637117d6d62ffd760423b45a1a
+Block Hash: 840905a1dded2b682483363377b0878c96d1edefbd23d5eea12567b9ae3594ad
+Block Hash: 4386265d0a6309f3617d013f3b3db01295eaf704cee0f1a3f826132637cbba39
+Block Hash: 3f9c49b9ba6a4d2b4b06f41c70101207dd0b43169bcc40bfc5f9f92689e7701e
+Block Hash: 3f8c4f5b23c592143343b1f01a2fab3f0b842e87cdcb2386228268ec262010a0
+Block Hash: 7e0c70e3a0aeeb653dd3804df3e853c3c4f32e64cca19946bf16c97cbd8cd6a0
+Block Hash: d72b361570944ed16d62efe6fa18c57c47d6a9068e848bb56cc6d94528a60fb4
+Block Hash: 74de5d22b1b994ebb9f2b6a3802a2f8738d413adf19df54d37612b4515dc0256
+Block Hash: 2314fd38965f54e3117f9d64de90c9ceecc379114ca99955d920283dab3de2c2
+Block Hash: c9539f0c04b2b1c3cb58bad58efea1772c08db8ae1e15e9226a9dc8bcf9436d9
+Block Hash: 0ca774e441d5913647102e9a90e7f1889216eedf05f7c1a78e1daa7e376a649a
+Block Hash: 72af5ab22e103b7b68c77ea89b4b188d0a9cde4ba01443438299b4ab94052e0f
+Block Hash: c33eb3d2fb6ab7b4e30441c62f18f96ade2143d51b5dd7fd8728d8392f4dd870
+Block Hash: ce0a927d9d3e759da5e2f0d87289df72e750d96a38e03be1e55399113ebb0b1e
+Block Hash: 604293c8a360702d75b13403058062264301f1774926f93d8dfe8fac96eb3cec
+Block Hash: ebb459c8b3d41858cb7ede638a085661bc0e23af64652ea4f02cd605b5d11896
+Block Hash: efcd4c82b10a6e46bb3fdadd9bcab14c27fc6bfae1045620a990aa82ea620b57
+Block Hash: 041a01081f4437a2f6473febb107ac8d5eac24318b860fa2f8b3be46bfeb6650
+Block Hash: 33abae48e57c79411fa46a9320d58734d8947c851d65ee45828ad2486123bb42
+Block Hash: 5b1ec5667f87c7076d3778eb14863eb72ff0d867ed284e6d1352e15e6cf4551d
+Block Hash: aebc75743f46454996e30bf15eca5d9b7fcb014d85823bd897d0d2a4559b41c7
+Block Hash: 28e758d5791eaf1e71d959b9859dcbcb8f4010f3b669bf811fc84db43c61d45a
+Block Hash: 911750371cb0dbc6d1f00b769736a1098427a70b4f8d33464eed67864393585c
+Block Hash: 52b8486fc7523f35faa32b3351c6c357d3bdaad6749292e52d1703ec4bf28305
+Block Hash: d248f2e61914f301e0a639acc6510850ea540e8ef2c5d5c55a725259b3b08ddf
+Block Hash: d136015b187f526f2ec69986542897721766823ecb675254af72fe8e407e03fc
+Block Hash: 8d97e00ccf6c760d1c20b26155fc4a49ba063541577c18678e5c5d38ddd70b55
+Block Hash: c10644eb5503228cddda13d43fda7fcf3b9ff67bfb79f9fda74d8231d1b7badb
+Block Hash: 6f90eb8bd544944761cb715694e27f438951d6620267a73f700f1d78eedeb943
+Block Hash: 7228c1c960f7bc2c745b5f621ca7dd3844da7df06e05037b80c826885aa2e22c
+Block Hash: 1d779dca3d2ea89c4710d6dc9b33cdccaf5832993f4c4a2eff55c92a5cfa51f9
+Block Hash: 789434f176e0740658bc636f2b597ac181a6dbf7e720848e635c2ae9e5b78c74
+Block Hash: 24be990988f1a68321ea4944553c9761da493dea608bcec32b021a5bf48b4283
+Block Hash: 0f093d60f4595fcd01c2b9a28eec37644ac13f2fae4c3237f9380841a8aec014
+Block Hash: f3b5622bc89bba01244b6b5c4b2d15566e9cc35d1a8c0772a81a39692cce48a8
+Block Hash: 077fef85729559c75314d30b842ebf1516a18ce043be81f7ffef084042941adb
+Block Hash: fccb431074297b8f46003842fd12ffe8977676dc408537187a6c224d357a0221
+Block Hash: d07eeb3546452eeeccc790900822f018d65f9f23dad458a424bd9941598cd8b4
+Block Hash: 5e33cbf3901603d3096ba70fd0f3be8bc8b2297ddd9eeba894c32020b2ed6eff
+Block Hash: d4be31d3ef612aa53d16d5d4166dafd6b0bb40d1d8428eb74e3132b3c6adeec0
+Current Tip: d4be31d3ef612aa53d16d5d4166dafd6b0bb40d1d8428eb74e3132b3c6adeec0
